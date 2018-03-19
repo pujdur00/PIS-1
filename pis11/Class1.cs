@@ -7,5 +7,7 @@ namespace pis11
 {
     class Class1
     {
+        void nekapromjena()
+        {}
     }
 }
